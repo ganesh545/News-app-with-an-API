@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Copenhagen's historic stock exchange in flames",
+    "description": "There was shock as the 17th Century building's spire collapsed in the fire.",
+    "url": "https://www.bbc.co.uk/news/world-europe-68824189",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/153DE/production/_133160078_2eb9b1f42eef8353d95038a43c48ac72824f3d760_288_5616_31591000x563.jpg",
+    "publishedAt": "2024-04-16T07:52:18.5583268Z",
+    "content": "Media caption, Watch: Huge fire breaks out at Copenhagen exchange\r\nDenmark's historic old stock exchange building in the centre of Copenhagen has been engulfed by fire.\r\nThe 17th Century Børsen is on… [+1098 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Protesters demand Georgia government withdraw proposed 'Russian law'",
+    "description": "Critics say the bill mirrors similar legislation introduced by President Vladimir Putin in Russia.",
+    "url": "https://www.bbc.co.uk/news/world-europe-68822483",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15C07/production/_133159098_gettyimages-2147834896.jpg",
+    "publishedAt": "2024-04-16T06:37:21.058338Z",
+    "content": "Media caption, Watch: Moment Georgia opposition leader punches MP during debate\r\nThousands of people demonstrated in the Georgian capital Tbilisi on Monday demanding the withdrawal of a controversial… [+3416 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Liz Truss endorses Donald Trump to win US presidential election",
+    "description": "The ex-PM warns the \"world was safer\" under Donald Trump's presidency, and the West is \"on the cusp\" of conflict.",
+    "url": "https://www.bbc.co.uk/news/uk-politics-68821646",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/150B3/production/_133159168_2f5f05709f0fd37ee1d7dac5377895276eac7ea9.jpg",
+    "publishedAt": "2024-04-16T06:37:18.6983167Z",
+    "content": "Media caption, Former PM Liz Truss says she hopes Donald Trump wins the next US election\r\nLiz Truss has endorsed Donald Trump to win this year's US presidential election, saying the \"world was safer\"… [+5243 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Tesla lays off more than 10% of its workforce",
+    "description": "Owner Elon Musk said it was a difficult decision to reduce Tesla's global headcount.",
+    "url": "https://www.bbc.co.uk/news/technology-68818113",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4303/production/_133155171_gettyimages-1231348679.jpg",
+    "publishedAt": "2024-04-16T06:22:20.8860965Z",
+    "content": "Tesla will lay off more than 10% of its global electric vehicle workforce.\r\nIn a memo, first reported by news website Electrek, billionaire owner Elon Musk told staff there was nothing he hated more,… [+3423 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Tesla whistleblower in legal battle over braking-safety concerns",
+    "description": "A former Tesla engineer is in a decade-long battle with the car company, owned by Elon Musk.",
+    "url": "https://www.bbc.co.uk/news/articles/cg3q95ednqwo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/22a0/live/e7f6b1c0-f668-11ee-bbe1-a7ba053f1988.jpg",
+    "publishedAt": "2024-04-16T05:37:19.7310555Z",
+    "content": "A Tesla whistleblower who has battled Elon Musk and his company through the courts for a decade tells BBC News she is still seeking a public apology. \r\nNo other interview about a tech giant has made … [+1950 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "'Bollard Man': Hero who confronted stabber promised Australia visa",
+    "description": "The Prime Minister has told \"Bollard Man\" Damien Guerot he can stay in the country as long as he likes.",
+    "url": "https://www.bbc.co.uk/news/world-australia-68814812",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12D81/production/_133158177_ausugcstillnolabels-copy.jpg",
+    "publishedAt": "2024-04-16T03:52:15.4014108Z",
+    "content": "Media caption, The viral video showing Damien Guerot confronting the attacker\r\nA Frenchman who tried to stop a deadly stabbing rampage at a Sydney mall has been promised an Australian visa.\r\nDamien G… [+2550 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sydney mall attack: Confronting pro-Kremlin troll on false claims Jewish student was killer",
+    "description": "Simeon Boikov sparked a social media frenzy implicating an innocent 20-year-old in the shopping mall attack.",
+    "url": "https://www.bbc.co.uk/news/world-australia-68822846",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1063/production/_133159140_img_3153.jpg",
+    "publishedAt": "2024-04-16T02:52:19.4965446Z",
+    "content": "\"I never falsely suggested anything,\" Simeon Boikov tells me.\r\nUnder the alter ego \"Aussie Cossack\", he posted untrue speculation that a 20-year-old Jewish university student was the attacker who had… [+7644 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sydney church stabbing treated as 'terrorist act'",
+    "description": "A 15-year-old boy is under arrest after a bishop and several churchgoers were injured on Monday.",
+    "url": "https://www.bbc.co.uk/news/world-australia-68823240",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F7A3/production/_133159336_ba46506645ba76960f537ce197be83595ee82517-1.jpg",
+    "publishedAt": "2024-04-15T23:22:15.0583382Z",
+    "content": "Media caption, Watch: Police disperse hundreds of protesters that gathered outside the church after the stabbing\r\nAustralian police have declared Monday's stabbing at a church in Sydney a \"terrorist … [+1336 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Trump trial: Difficult search begins for impartial jury",
+    "description": "Unprecedented trial opens with more than half of potential jurors dismissed on grounds of bias.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68671733",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/070A/production/_133120810_gettyimages-2147829079.jpg",
+    "publishedAt": "2024-04-15T22:07:18.8241846Z",
+    "content": "Donald Trump's unprecedented criminal trial has begun with half of a group of potential jurors ruled out within minutes on impartiality grounds.\r\nMr Trump denies falsifying business records to concea… [+5149 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sydney: Bishop stabbed during sermon - reports",
+    "description": "Police say they responded to reports of multiple people being stabbed in western Sydney.",
+    "url": "https://www.bbc.co.uk/news/world-australia-68817872",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4A01/production/_133154981_bishopstab.jpg",
+    "publishedAt": "2024-04-15T11:37:23.7606683Z",
+    "content": "A bishop and several other people have been stabbed during a sermon in Sydney that was being streamed online, local media report. \r\nThe incident reportedly happened on Monday night in the suburb of W… [+981 chars]"
+    }
+    ]
+    }
